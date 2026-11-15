@@ -3,6 +3,9 @@
 ## Problème
 Les connaissances familiales sont dispersées (papiers, messages, mémoire de chacun) et se perdent.
 
+## Plateformes
+Application **mobile et web** (décidé).
+
 ## Utilisateurs
 - Administrateur familial (à confirmer)
 - Membres de la famille (adultes, enfants)
@@ -14,6 +17,5 @@ Les connaissances familiales sont dispersées (papiers, messages, mémoire de ch
 - Suivi des apprentissages
 
 ## Questions ouvertes
-- Plateforme cible : web, mobile, les deux ?
 - Hébergement et confidentialité des données ?
 - Langue(s) de l'interface ?
